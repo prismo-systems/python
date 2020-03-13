@@ -3,7 +3,7 @@ This repository contains the python agent and supporting files.
 Add an entry in the requirements.txt file to include the agent with the application
 requirements.txt
 ===============
-https://raw.github.com/prismo-systems/python/master/pyAgent-0.0.880.tar.gz
+https://raw.github.com/prismo-systems/python/master/pyAgent-0.0.900.tar.gz
 
 Change app startup - add prismo agent
 app.yaml 
